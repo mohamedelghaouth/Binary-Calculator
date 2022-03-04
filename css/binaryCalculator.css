@@ -1,0 +1,38 @@
+body {
+    width: 33%;
+}
+
+#res {
+    background-color: lightgray;
+    border: solid;
+    height: 48px;
+    font-size: 20px
+}
+
+.btn  {
+    width: 25%;
+    float: left;
+    height: 36px;
+    font-size: 18px;
+    margin: 0px
+}
+
+.container {
+    display: flex;
+    flex-direction: column;
+}
+
+.numbers {
+    background-color: lightgreen;
+    color: brown
+}
+
+.clearAndEql {
+    background-color: darkgreen ;
+    color: white
+}
+
+.operationButton {
+    background-color: black ;
+    color: red
+}
